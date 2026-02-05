@@ -37,7 +37,7 @@ The project follows a structured data science approach:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/alexandrecamposcastro/previsao_score_banco.git](https://github.com/alexandrecamposcastro/previsao_score_banco.git)
+    git clone [https://github.com/alexandrecamposcastro/BankCreditScorePrediction.git](https://github.com/alexandrecamposcastro/BankCreditScorePrediction.git)
     ```
 2.  **Install dependencies:**
     ```bash
